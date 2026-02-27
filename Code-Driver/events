@@ -1,0 +1,35 @@
+3001 — An unsigned driver was attempted to load on the system
+3002 — Code Integrity couldn't verify the boot image as the page hash couldn't be found
+3004 — Code Integrity couldn't verify the file as the page hash couldn't be found
+3010 — The catalog containing the signature for the file under validation is invalid
+3011 — Code Integrity finished loading the signature catalog
+3012 — Code Integrity started loading the signature catalog
+3023 — The driver file under validation didn't meet the requirements to pass the App Control policy
+3024 — Windows App Control was unable to refresh the boot catalog file
+3026 — Microsoft or the certificate issuing authority revoked the certificate that signed the catalog
+3032 — The file under validation is revoked or the file has a signature that is revoked
+3033 — The file under validation didn't meet the requirements to pass the App Control policy
+3034 — Audit-mode equivalent of 3033 (would fail policy if enforced)
+3036 — Microsoft or the certificate issuing authority revoked the certificate that signed the file being validated
+3064 — Audit-mode: user-mode DLL would not pass policy if enforced (allowed due to audit)
+3065 — Enforced-mode: user-mode DLL didn't meet requirements to pass the App Control policy
+3074 — Page hash failure while hypervisor-protected code integrity was enabled
+3075 — Performance measurement of the App Control policy check during file validation
+3076 — Main App Control block event for audit mode (would have been blocked if enforced)
+3077 — Main App Control block event for enforced mode (file didn’t pass policy and was blocked)
+3079 — The file under validation didn't meet the requirements to pass the App Control policy
+3080 — Enforced-mode equivalent: file under validation wouldn’t have met policy requirements
+3081 — The file under validation didn't meet the requirements to pass the App Control policy
+3089 — Signing information event (correlated with 3076/3077)
+3090 — File allowed based purely on ISG or Managed Installer
+3091 — File lacked ISG/Managed Installer authorization (audit mode)
+3092 — Enforcement-mode equivalent of 3091
+3095 — App Control policy can’t be refreshed; reboot required
+3096 — App Control policy wasn’t refreshed because it’s already up-to-date
+3097 — App Control policy can’t be refreshed
+3099 — App Control policy loaded
+3100 — Policy refreshed but unsuccessfully activated; retry
+3101 — App Control policy refresh started
+3102 — App Control policy refresh finished
+3103 — System is ignoring the App Control policy refresh
+3105 — System is attempting to refresh the App Control policy with the specified ID

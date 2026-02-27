@@ -1,0 +1,30 @@
+AppLocker (Applications and Services Logs → Microsoft → Windows → AppLocker)
+8000 — AppID policy conversion failed (policy not applied correctly)
+8001 — The AppLocker policy was applied successfully to this computer
+8002 — EXE/DLL was allowed to run
+8003 — EXE/DLL was allowed (audit); would be blocked if enforced
+8004 — EXE/DLL was prevented from running (enforced)
+8005 — Script/MSI was allowed to run
+8006 — Script/MSI was allowed (audit); would be blocked if enforced
+8007 — Script/MSI was prevented from running (enforced)
+8008 — AppLocker component not available on this SKU
+8020 — Packaged app was allowed to run
+8021 — Packaged app was allowed (audit); would be blocked if enforced
+8022 — Packaged app was prevented from running
+8023 — Packaged app was allowed to be installed
+8024 — Packaged app was allowed to run (audit); would be blocked if enforced
+8025 — Packaged app was prevented from running
+8027 — No packaged apps can be executed while EXE rules are enforced and no packaged app rules are configured
+8028 — Packaged app was allowed (audit); would be blocked if Config CI policy were enforced
+8029 — Packaged app was prevented from running due to Config CI policy
+8030 — ManagedInstaller check succeeded during AppID verification
+8031 — SmartlockerFilter detected a file being written by a process
+8032 — ManagedInstaller check failed during AppID verification
+8033 — ManagedInstaller check failed; allowed due to Audit AppLocker policy
+8034 — ManagedInstaller Script check failed during AppID verification
+8035 — ManagedInstaller Script check succeeded during AppID verification
+8036 — File was prevented from running due to Config CI policy
+8037 — File passed Config CI policy and was allowed to run
+8038 — Publisher info (subject/issuer/signature index) recorded
+8039 — Packaged app allowed to install/update (audit); would be blocked if Config CI enforced
+8040 — Packaged app prevented from installing/updating due to Config CI policy

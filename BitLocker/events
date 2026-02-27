@@ -1,0 +1,12 @@
+BitLocker (Microsoft-Windows-BitLocker-API / BitLocker Management)
+813 — BitLocker cannot use Secure Boot for integrity because the expected TCG Log entry is missing or invalid
+834 — BitLocker determined the TCG log is invalid for use of Secure Boot (filtered TCG log for PCR[7] included)
+842 — BitLocker was unable to reseal boot settings to the TPM in the Windows Recovery Environment (protection temporarily suspended)
+846 — Failed to back up BitLocker Drive Encryption recovery information for a volume (e.g., to Azure AD)
+851 — Failed to enable Silent Encryption
+
+BitLocker (Microsoft-Windows-BitLocker-Driver)
+24577 — Encryption start time (encryption started)
+24579 — Encryption completion time (encryption completed)
+24635 — BitLocker failed to obtain the volume master key due to non-matching PCRs (boot integrity mismatch scenario)
+24636 — Failure to obtain BitLocker volume master key from the TPM
