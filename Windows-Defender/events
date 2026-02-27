@@ -1,0 +1,43 @@
+1000 — Malware protection engine version updated
+1001 — Malware protection platform updated
+1002 — Malware protection definitions updated
+1006 — Malware protection scan started
+1007 — Malware protection scan completed
+1008 — Malware protection remediation action performed
+1010 — Malware protection real-time protection enabled
+1012 — Malware protection real-time protection disabled
+1013 — Malware protection behavior monitoring enabled
+1014 — Malware protection behavior monitoring disabled
+1015 — Malware protection IOAV (download scanning) enabled
+1016 — Malware protection IOAV (download scanning) disabled
+1017 — Malware protection on-access scanning enabled
+1018 — Malware protection on-access scanning disabled
+1020 — Malware protection cloud protection enabled
+1021 — Malware protection cloud protection disabled
+1022 — Malware protection sample submission enabled
+1023 — Malware protection sample submission disabled
+1110 — Malware detection history deleted
+1111 — Malware detection history restored
+1116 — Malware or potentially unwanted software was detected
+1117 — Malware or potentially unwanted software was cleaned or quarantined
+1118 — Malware remediation failed
+1119 — Malware was deleted
+1120 — Malware was quarantined
+1150 — Malware protection engine encountered an error
+1151 — Malware protection service stopped
+1152 — Malware protection service started
+2000 — Scan started
+2001 — Scan completed
+2003 — Scan failed
+3002 — Microsoft Defender Antivirus health status changed
+3004 — Microsoft Defender Antivirus entered passive mode
+3005 — Microsoft Defender Antivirus exited passive mode
+5001 — Real-time protection was disabled
+5004 — Windows Defender Antivirus settings were changed
+5007 — Windows Defender Antivirus configuration has changed
+5008 — Malware protection engine encountered a critical error
+5010 — Anti-spyware protection was disabled
+5011 — Malware protection service has stopped
+5012 — Real-time protection configuration changed
+5013 — Tamper protection blocked a change to Windows Defender Antivirus
+
